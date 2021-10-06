@@ -30,4 +30,8 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>Java-docker-jenkins</finalName>
+    </build>
+
 </project>
